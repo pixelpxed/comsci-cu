@@ -1,0 +1,5 @@
+Alice 54
+Smith 32
+Sirikanya 99
+Metawat 80
+Chayen 32
